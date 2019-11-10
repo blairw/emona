@@ -6,3 +6,5 @@ Sample music is 'Stories From Emona I' by Maya Filipic, https://www.jamendo.com/
 Also features a Charts Demo for my dear friends struggling to implement JavaFX charts:
 
 ![Charts Demo](docs/ChartsDemo.png)
+
+Based on the Oracle docs referenced in the code :)
